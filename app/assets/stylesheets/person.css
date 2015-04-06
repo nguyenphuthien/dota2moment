@@ -10,7 +10,7 @@
 .person{
 	/*background-color: yellow;*/
 	background-color: lightBlue;
-	width: 300px;
+	width: 25%;
 	height: 400px;
 	float: left;
 	position: relative;
@@ -19,7 +19,7 @@
 
 .avtPerson{
 	background-color: blue;
-	width: 180px;
+	width: 200px;
 	height: 320px;
 
 }
