@@ -1,0 +1,35 @@
+.body{
+	height: 100%;
+	overflow: hidden;
+}
+.grid-container{
+	padding-top :50px;
+	overflow: hidden;
+	position: relative;
+}
+.person{
+	/*background-color: yellow;*/
+	width: 200px;
+	height: 400px;
+	float: left;
+	position: relative;
+
+}
+.avtPerson{
+	background-color: blue;
+	width: 180px;
+	height: 320px;
+
+}
+.1st{
+	left : 120px;
+}
+.logo{
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	top : 50px;
+	left: 50px;
+	position: absolute;
+	display: inline-block;
+}
